@@ -10,7 +10,3 @@ VALUES
   ('Montague', 'Summers', 1),
   ('Octavia', 'Butler', 1),
   ('Unica', 'Zurn', 1);
-
-  UPDATE candidates
-SET industry_connected = 1
-WHERE id = 3;
